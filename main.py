@@ -16,7 +16,6 @@ pygame.display.set_caption('Flappy Bird')
 font = pygame.font.SysFont('Bauhaus 93', 60)
 
 white = (255, 255, 255)
-
 ground_scroll = 0
 scroll_speed = 4
 flying = False
